@@ -2,5 +2,4 @@
 
 edit on example branch
 
-new editing on readme
-make some editing
+updates make on master on GitHub before rebase
